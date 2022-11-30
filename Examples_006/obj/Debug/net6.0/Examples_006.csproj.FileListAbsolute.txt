@@ -1,0 +1,15 @@
+D:\DOCs\Desktop\Git Education\Examples\Examples_006\obj\Debug\net6.0\Examples_006.csproj.AssemblyReference.cache
+D:\DOCs\Desktop\Git Education\Examples\Examples_006\obj\Debug\net6.0\Examples_006.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCs\Desktop\Git Education\Examples\Examples_006\obj\Debug\net6.0\Examples_006.AssemblyInfoInputs.cache
+D:\DOCs\Desktop\Git Education\Examples\Examples_006\obj\Debug\net6.0\Examples_006.AssemblyInfo.cs
+D:\DOCs\Desktop\Git Education\Examples\Examples_006\obj\Debug\net6.0\Examples_006.csproj.CoreCompileInputs.cache
+D:\DOCs\Desktop\Git Education\Examples\Examples_006\bin\Debug\net6.0\Examples_006.exe
+D:\DOCs\Desktop\Git Education\Examples\Examples_006\bin\Debug\net6.0\Examples_006.deps.json
+D:\DOCs\Desktop\Git Education\Examples\Examples_006\bin\Debug\net6.0\Examples_006.runtimeconfig.json
+D:\DOCs\Desktop\Git Education\Examples\Examples_006\bin\Debug\net6.0\Examples_006.dll
+D:\DOCs\Desktop\Git Education\Examples\Examples_006\bin\Debug\net6.0\Examples_006.pdb
+D:\DOCs\Desktop\Git Education\Examples\Examples_006\obj\Debug\net6.0\Examples_006.dll
+D:\DOCs\Desktop\Git Education\Examples\Examples_006\obj\Debug\net6.0\refint\Examples_006.dll
+D:\DOCs\Desktop\Git Education\Examples\Examples_006\obj\Debug\net6.0\Examples_006.pdb
+D:\DOCs\Desktop\Git Education\Examples\Examples_006\obj\Debug\net6.0\Examples_006.genruntimeconfig.cache
+D:\DOCs\Desktop\Git Education\Examples\Examples_006\obj\Debug\net6.0\ref\Examples_006.dll
